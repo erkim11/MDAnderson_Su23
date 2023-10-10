@@ -1,5 +1,4 @@
-# MDAnderson_Su23
-Analysis Scripts Developed During Summer 2023 Research Internship
+# Analysis Scripts Developed During Summer 2023 Research Internship
 
 **comut.py**<br>
 - comut plot of the gbm samples
